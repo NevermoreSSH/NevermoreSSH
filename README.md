@@ -10,7 +10,7 @@
 
 ⚡ SSH OpenVPN XRAYS Websocket Multiport : https://github.com/NevermoreSSH/sapphire   
 
-💬 PM username & IP <a href="https://t.me/todfix667" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+💬 Register username & IP here 👉 <a href="https://t.me/todfix667" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 <!--
 **NevermoreSSH/NevermoreSSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
