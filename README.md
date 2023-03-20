@@ -1,4 +1,4 @@
-### Hi there 👋 , Nothing. Just saving script SSH & XRAY for future use.
+### Hi there 👋 , nothing to say. Just saving script SSH & XRAY for future use.
 
 ⚡ XRAY Multiport Websocket Custompath : https://github.com/NevermoreSSH/yourpath
 
