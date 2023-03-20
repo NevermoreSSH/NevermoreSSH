@@ -4,7 +4,7 @@
 
 ⚡ AutoScript XRAY/SSH Websocket : https://github.com/NevermoreSSH/Blueblue
 
-⚡ AutoScript XRAY/SSH Websocket : https://github.com/NevermoreSSH/hop
+⚡ AutoScript XRAY/SSH Websocket 2 : https://github.com/NevermoreSSH/hop
 
 ⚡ (BETA) All in One : https://github.com/NevermoreSSH/VVV
 
