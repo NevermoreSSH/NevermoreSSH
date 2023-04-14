@@ -1,10 +1,10 @@
 ### Hi there 👋 , nothing to say. Just saving script SSH & XRAY for future use.
 
-⚡ XRAY Multiport Websocket Custompath : https://github.com/NevermoreSSH/yourpath
+⚡ XRAYS Multiport Websocket Custompath : https://github.com/NevermoreSSH/yourpath
 
-⚡ AutoScript XRAY/SSH Websocket : https://github.com/NevermoreSSH/Blueblue
+⚡ AutoScript XRAYS/SSH Websocket : https://github.com/NevermoreSSH/Blueblue
 
-⚡ AutoScript XRAY/SSH Websocket 2 : https://github.com/NevermoreSSH/hop
+⚡ AutoScript XRAYS/SSH/DNSTT Websocket 2 : https://github.com/NevermoreSSH/hop
 
 ⚡ (BETA) All in One : https://github.com/NevermoreSSH/VVV
 
