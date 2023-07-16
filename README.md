@@ -8,6 +8,8 @@
 
 ⚡ (BETA) All in One : https://github.com/NevermoreSSH/VVV
 
+⚡ DNS Changer : https://github.com/ab77/netflix-proxy
+
 ⚡ SSH OpenVPN XRAYS Websocket Multiport : https://github.com/NevermoreSSH/sapphire   
 
 💬 Register username & IP here 👉 <a href="https://t.me/todfix667" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
