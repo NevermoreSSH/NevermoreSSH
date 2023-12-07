@@ -1,14 +1,14 @@
 ### Hi there 👋 , nothing to say. Just saving script SSH & XRAY for future use.
 
+Free autoscript below:-
+
 ⚡ XRAYS Multiport Websocket Custompath : https://github.com/NevermoreSSH/yourpath
 
 ⚡ AutoScript XRAYS/SSH Websocket : https://github.com/NevermoreSSH/Blueblue
 
 ⚡ AutoScript XRAYS/SSH/DNSTT Websocket : https://github.com/NevermoreSSH/hop
 
-⚡ (BETA) All in One : https://github.com/NevermoreSSH/VVV
-
-⚡ SSH OpenVPN XRAYS Websocket Multiport : https://github.com/NevermoreSSH/sapphire   
+⚡ (BETA) XRAY/SSH/DNSTT/XRAYDNS : https://github.com/NevermoreSSH/VVV
 
 
 <!--
