@@ -8,7 +8,7 @@ Free autoscript below:-
 
 ⚡ AutoScript XRAYS/SSH/DNSTT Websocket : https://github.com/NevermoreSSH/hop
 
-⚡ (BETA) XRAY/SSH/DNSTT/XRAYDNS : https://github.com/NevermoreSSH/VVV
+⚡ (BETA) XRAY/SSH/XRAYDNS/DNSTT : https://github.com/NevermoreSSH/VVV
 
 
 <!--
