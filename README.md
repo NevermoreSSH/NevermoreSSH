@@ -2,13 +2,13 @@
 
 Free autoscript below:-
 
-⚡ XRAYS Multiport Websocket Custompath : https://github.com/NevermoreSSH/yourpath
+⚡ XRAYS Multiport Websocket Custompath (FREE) : https://github.com/NevermoreSSH/yourpath
 
-⚡ AutoScript XRAYS/SSH Websocket : https://github.com/NevermoreSSH/Blueblue
+⚡ AutoScript XRAYS/SSH Websocket (FREE) : https://github.com/NevermoreSSH/Blueblue
 
-⚡ AutoScript XRAYS/SSH/DNSTT Websocket : https://github.com/NevermoreSSH/hop
+⚡ AutoScript XRAYS/SSH/DNSTT Websocket (FREE) : https://github.com/NevermoreSSH/hop
 
-⚡ (BETA) XRAY/SSH/XRAYDNS/DNSTT : https://github.com/NevermoreSSH/VVV
+⚡ (BETA) XRAY/SSH/XRAYDNS/DNSTT (FREE) : https://github.com/NevermoreSSH/VVV
 
 
 <!--
