@@ -1,12 +1,10 @@
 
+<p align="center">
+<img src="https://github.com/NevermoreSSH/NevermoreSSH/blob/main/171291.gif" width="350" title="Autoscript-Lite">
+
 <h1 align="center">Hi 👋, I'm NevermoreSSH</h1> 
 <h3 align="center">nothing to say. Just modified & saving script SSH XRAY for future use.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nevermoressh&label=Profile%20views&color=0e75b6&style=flat" alt="nevermoressh" /> </p>
-
-<p align="left">
-</p>
-<p align="center">
-<img src="https://github.com/NevermoreSSH/NevermoreSSH/blob/main/171291.gif" width="350" title="Autoscript-Lite">
 
 ⚡ XRAYS Multiport Websocket Custompath (FREE) : [yourpath](https://github.com/NevermoreSSH/yourpath)
 
