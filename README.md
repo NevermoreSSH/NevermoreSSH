@@ -5,7 +5,7 @@
 
 <p align="left">
 </p>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/NevermoreSSH/NevermoreSSH/assets/122625019/b4563c8d-fe0a-4413-a1a0-ec2839183648)">
+<img align="center" alt="coding" width="400" src="https://github.com/NevermoreSSH/NevermoreSSH/blob/main/171291.gif">
 
 ⚡ XRAYS Multiport Websocket Custompath (FREE) : [yourpath](https://github.com/NevermoreSSH/yourpath)
 
@@ -20,10 +20,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevermoressh&show_icons=true&locale=en&layout=compact" alt="nevermoressh" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevermoressh&show_icons=true&locale=en" alt="nevermoressh" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevermoressh&" alt="nevermoressh" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nevermoressh&label=Profile%20views&color=0e75b6&style=flat" alt="nevermoressh" /> </p>
 
 
 
