@@ -5,7 +5,8 @@
 
 <p align="left">
 </p>
-<img align="center" alt="coding" width="400" src="https://github.com/NevermoreSSH/NevermoreSSH/blob/main/171291.gif">
+<p align="center">
+<img src="https://github.com/NevermoreSSH/NevermoreSSH/blob/main/171291.gif" width="350" title="Autoscript-Lite">
 
 ⚡ XRAYS Multiport Websocket Custompath (FREE) : [yourpath](https://github.com/NevermoreSSH/yourpath)
 
