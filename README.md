@@ -6,11 +6,11 @@
 <h3 align="center">nothing to say. Just modified & saving script SSH XRAY for future use.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nevermoressh&label=Profile%20views&color=0e75b6&style=flat" alt="nevermoressh" /> </p>
 
-⚡ XRAYS Multiport Websocket Custompath (FREE) : [yourpath](https://github.com/NevermoreSSH/yourpath)
+⚡ XRAY Multiport Websocket Custompath (FREE) : [yourpath](https://github.com/NevermoreSSH/yourpath)
 
-⚡ AutoScript XRAYS/SSH Websocket (FREE) : [Blueblue](https://github.com/NevermoreSSH/Blueblue)
+⚡ AutoScript XRAY/SSH Websocket (FREE) : [Blueblue](https://github.com/NevermoreSSH/Blueblue)
 
-⚡ AutoScript XRAYS/SSH/DNSTT Websocket (FREE) : [Hop](https://github.com/NevermoreSSH/hop)
+⚡ AutoScript XRAY/SSH/DNSTT Websocket (FREE) : [Hop](https://github.com/NevermoreSSH/hop)
 
 ⚡ (BETA) XRAY/SSH/XRAYDNS/DNSTT (FREE) : [VVV](https://github.com/NevermoreSSH/VVV)
 
