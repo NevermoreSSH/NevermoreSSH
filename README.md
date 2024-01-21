@@ -10,8 +10,6 @@
 
 ⚡ AutoScript XRAY/SSH Websocket (FREE) : [HERE](https://github.com/NevermoreSSH/Blueblue)
 
-⚡ AutoScript XRAY/SSH Websocket Single Port (FREE) : [HERE](https://github.com/NevermoreSSH/vinnfier/tree/adata)
-
 ⚡ AutoScript XRAY/SSH/DNSTT Websocket (FREE) : [HERE](https://github.com/NevermoreSSH/hop)
 
 ⚡ (BETA) XRAY/SSH/XRAYDNS/DNSTT (FREE) : [HERE](https://github.com/NevermoreSSH/VVV)
